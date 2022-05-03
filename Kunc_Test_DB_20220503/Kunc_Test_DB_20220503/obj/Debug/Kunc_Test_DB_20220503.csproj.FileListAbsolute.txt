@@ -1,0 +1,9 @@
+C:\Users\Sharkoon\Source\Repos\Kunc_Test_DB_20220503\Kunc_Test_DB_20220503\bin\Debug\Kunc_Test_DB_20220503.exe.config
+C:\Users\Sharkoon\Source\Repos\Kunc_Test_DB_20220503\Kunc_Test_DB_20220503\bin\Debug\Kunc_Test_DB_20220503.exe
+C:\Users\Sharkoon\Source\Repos\Kunc_Test_DB_20220503\Kunc_Test_DB_20220503\bin\Debug\Kunc_Test_DB_20220503.pdb
+C:\Users\Sharkoon\Source\Repos\Kunc_Test_DB_20220503\Kunc_Test_DB_20220503\obj\Debug\Kunc_Test_DB_20220503.csprojAssemblyReference.cache
+C:\Users\Sharkoon\Source\Repos\Kunc_Test_DB_20220503\Kunc_Test_DB_20220503\obj\Debug\Kunc_Test_DB_20220503.Form1.resources
+C:\Users\Sharkoon\Source\Repos\Kunc_Test_DB_20220503\Kunc_Test_DB_20220503\obj\Debug\Kunc_Test_DB_20220503.Properties.Resources.resources
+C:\Users\Sharkoon\Source\Repos\Kunc_Test_DB_20220503\Kunc_Test_DB_20220503\obj\Debug\Kunc_Test_DB_20220503.csproj.GenerateResource.cache
+C:\Users\Sharkoon\Source\Repos\Kunc_Test_DB_20220503\Kunc_Test_DB_20220503\obj\Debug\Kunc_Test_DB_20220503.exe
+C:\Users\Sharkoon\Source\Repos\Kunc_Test_DB_20220503\Kunc_Test_DB_20220503\obj\Debug\Kunc_Test_DB_20220503.pdb
